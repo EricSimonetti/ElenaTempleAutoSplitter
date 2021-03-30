@@ -10,7 +10,7 @@ along with using information about those variables to tell hte program when to s
 -right click livesplit, go to open splits, from file, and choose the splits you downloded for the run you want
 
 -right click livesplit, go to edit layout, click the plus button, go to control, and then click scriptable autosplitter. 
-Then select "ElenaTemple.asl" from whereever you saved it to.
+Then select "ElenaTemple.asl" from where ever you saved it to.
 
 -Uncheck all runs except the run you are doing
 
